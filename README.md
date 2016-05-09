@@ -23,7 +23,6 @@ etc to function properly when an html page is opened via `file://` scheme instea
 
 Clone the angular-seed repository and start hacking...
 
-
 ### Running the app during development
 
 You can pick one of these options:
@@ -33,7 +32,6 @@ You can pick one of these options:
 
 Then navigate your browser to `http://localhost:<port>/app/index.html` to see the app running in
 your browser.
-
 
 ### Running the app in production
 
